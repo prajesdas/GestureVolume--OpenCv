@@ -1,5 +1,4 @@
 
----
 
 # 🎵 GestureVolume – Hand Gesture Volume Control ✋🔊  
 
@@ -51,5 +50,5 @@ python gesture_volume.py
 
 📌 **Press 'Q' to exit the program.**  
 
----
+
 
